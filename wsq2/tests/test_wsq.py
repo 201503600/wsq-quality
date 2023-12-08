@@ -5,7 +5,7 @@ import os
 import tempfile
 
 import PIL.Image
-import wsq
+import wsq2
 
 #_______________________________________________________________________________
 class WSQTestCase(unittest.TestCase):

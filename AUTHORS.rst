@@ -1,5 +1,5 @@
 
-``wsq`` Python code is written and maintained by Olivier Heurtier.
+``wsq2`` Python code is written and maintained by Olivier Heurtier.
 
 WSQ compression/decompression algorithm was developed at the
 National Institute of Standards and Technology (NIST) by employees of
